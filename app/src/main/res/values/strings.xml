@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabHost</string>
+    <string name="love">爱情</string>
+    <string name="love_text">问世间情为何物,直教生死相许。</string>
+    <string name="friendship">友情</string>
+    <string name="friendship_text">劝君更尽一杯酒，西出阳关无故人。</string>
+    <string name="kinship">亲情</string>
+    <string name="kinship_text">谁言寸草心，报得三春晖。</string>
+</resources>
